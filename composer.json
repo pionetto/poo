@@ -1,0 +1,12 @@
+{
+    "name": "pio/learn-php",
+    "description": "testes unitarios",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pio Lima",
+            "email": "pio.lima@gmail.com"
+        }
+    ],
+    "require": {}
+}
